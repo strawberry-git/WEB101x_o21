@@ -1,0 +1,18 @@
+.bg-img1{
+  background-color: #000;
+  background-size: cover;
+  background-image: url('/images/a0efcd60670b14f9734465872176bb35.png');
+  height: 500px;
+}
+.bg-img2{
+  background-color: #000;
+  background-size: cover;
+  background-image: url('/images/anh-nen-bau-troi-dem-dep-nhat-cho-dien-thoai-di-dong-mien-phi-6.jpg');
+  height:500px ;
+}
+.bg-img3{
+  background-color: #000;
+  background-size: cover;
+  background-image: url('/images/Hinh-nen-thanh-pho-ve-dem-tinh-mit.jpg');
+  height: 500px;
+}
